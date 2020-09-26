@@ -1,2 +1,2 @@
-# new-conflit
+LOCAL
 salut comment va tu ?
